@@ -1,6 +1,6 @@
 {
 	"name": "eslint-plugin-cta-example",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "Example ESLint plugin built with create-typescript-app. 🔌",
 	"repository": {
 		"type": "git",
